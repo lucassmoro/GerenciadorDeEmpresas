@@ -1,3 +1,2 @@
 *.form
-
-\empresa\emp\Cliente.java
+emp/Cliente.java
